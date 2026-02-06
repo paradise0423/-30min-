@@ -1,9 +1,9 @@
 # - 🎇代码测试（30min）-
 从下面的代码题目中，选择任意一个，用30min尝试解决。
 
-*1* 算法类题目，选自力扣(LeetCode)经典题目，请在无AI支持下尝试解决；
+*1、* 算法类题目，选自力扣(LeetCode)经典题目，请在无AI支持下尝试解决；
 
-*2* 应用类题目，基于GitHub开源代码进行简单的二次开发，可以使用任意AI工具辅助编程。
+*2、* 应用类题目，基于GitHub开源代码进行简单的二次开发，可以使用任意AI工具辅助编程。
 
 请共享屏幕，打开任意本地IDE，设计代码并运行测试。
 
@@ -42,7 +42,7 @@ step 2. 查看 examples / toolkits / human_toolkit.py ,
 
 step 3. 查看 camel / toolkits / human_toolkit.py , 代码中给出了 toolkit 的设计方式
 
-step 4. 定义一个 OUR_toolkit(在一个单独的py文件中进行定义), 让 Agent 使用 
+step 4. 定义一个 OUR_toolkit(在一个单独的py文件中进行定义), 允许 Agent 使用 
 
 step 5. 使用 OUR_toolkit 完成指定任务
 ##
